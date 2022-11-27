@@ -30,4 +30,12 @@ Computer Engineer | Backend Developer
 
 ### Badges
 
-<a href="https://github.com/sametrozturk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametrozturk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<details>
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=sametrozturk&theme=radical" >
+</details>
+
+<details>
+<summary>:bulb:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametrozturk&layout=compact" >
+</details>
