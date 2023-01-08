@@ -28,7 +28,7 @@ Computer Engineer | Backend Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/sametrozturk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/sametrozturk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/samet-öztürk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://open.spotify.com/user/11145870213?si=281a337e551f48fc" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/51668672/204271969-94adfa44-571b-4c27-af2e-8190470e115f.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/sametrozturk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/samet-öztürk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://open.spotify.com/user/11145870213?si=281a337e551f48fc" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/51668672/204271969-94adfa44-571b-4c27-af2e-8190470e115f.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
