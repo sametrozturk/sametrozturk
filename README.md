@@ -10,6 +10,8 @@ Computer Engineer | Backend Developer
 * ✉️  You can contact me at [sametozturk9@gmail.com](mailto:sametozturk9@gmail.com)
 * 🧠  I'm learning .NET, Angular
 
+![](https://komarev.com/ghpvc/?username=your-github-sametrozturk)
+
 ### Skills
 
 
