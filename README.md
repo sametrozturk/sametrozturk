@@ -8,7 +8,7 @@ Computer Engineer | Backend Developer
 
 * 🌍  I'm based in İstanbul, Turkey
 * ✉️  You can contact me at [sametozturk9@gmail.com](mailto:sametozturk9@gmail.com)
-* 🧠  I'm learning .NET, Angular
+* 🧠  I'm learning .NET, Angular, TypeScript, JavaScript
 
 ![](https://komarev.com/ghpvc/?username=your-github-sametrozturk)
 
