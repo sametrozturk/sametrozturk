@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samet Öztürk</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on [knowzone](https://github.com/osmannkartall/knowzone)
+- 🔭 I’m currently working on [Stock Management Api](https://github.com/sametrozturk/StockManagement)
 
 - 🌱 I’m currently learning **.NET, Angular, React, TypeScript, JavaScript**
 
